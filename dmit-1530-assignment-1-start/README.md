@@ -8,7 +8,7 @@ The following instructions will help you work through the HTML and CSS required 
 
 ## Introduction
 
-For this lab, you will build a three-page website with a responsive layout. The topic is a fictitious architectural firm. It will will assess the following concepts:
+For this lab, you will build a two-page website with a responsive layout. The topic is a fictitious architectural firm. It will will assess the following concepts:
 
 1. How to structure markup for flexbox layouts. 
 
